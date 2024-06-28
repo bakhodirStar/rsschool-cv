@@ -3,7 +3,7 @@
 ### Contacts
 
 > Phone: +998(99)775-02-21
-> E-mail: bobov1190@gmail.com
+> E-mail: bakhodirStar@gmail.com
 > Telegram: @sprintgood
 
 ### About me
@@ -18,8 +18,8 @@ I don't have any work experience.
 
 - Git
 - Markdown
-- Math
-- English Language
+- Mathematics
+- English
 
 ### Education
 
@@ -36,7 +36,7 @@ function multiply(a, b){
 
 ### Project
 
-[CV#1. Markdown & Git](https://bobov1190.github.io/rsschool-cv/cv)
+[CV#1. Markdown & Git](https://bakhodirStar.github.io/rsschool-cv/cv)
 
 ### Foreign languages
 
