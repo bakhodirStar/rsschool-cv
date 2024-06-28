@@ -36,7 +36,7 @@ function multiply(a, b){
 
 ### Project
 
-[CV#1. Markdown & Git](https://bakhodirStar.github.io/rsschool-cv)
+[CV#1. Markdown & Git](https://bakhodirStar.github.io/rsschool-cv/cv)
 
 ### Foreign languages
 
